@@ -1,0 +1,48 @@
+
+*
+{
+	box-sizing: border-box;
+}
+
+.metn
+{
+	font-size: 45px;
+    text-align: center;
+
+    color:tomato;
+    font-weight: 700;
+    
+
+}
+td
+{
+width: 150px;
+height: 150px;
+
+
+}
+.yuxari
+{
+border-top: 15px solid tomato
+}
+.asagi
+{
+border-bottom: 15px solid tomato
+}
+.uzununa
+{
+	border-left: 15px solid tomato;
+	border-right: 15px solid tomato;
+
+}
+.enine
+{
+	border-bottom: 15px solid tomato;
+}
+table
+{
+	/*border-collapse: separate;*/
+    border-spacing: 0px;
+    text-align: center;
+}
+
